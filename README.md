@@ -7,9 +7,9 @@
 </h1>
 
 <h5 align="center">
-  
+  <code>
     <a href="https://www.linkedin.com/in/icaro-pavani-teodoro-59462196/" title="LinkedIn Profile"><img width="80" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>
-  <code><a href="https://www.instagram.com/icaropavani/" title="Instagram Profile"><img width="80" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <code><a href="https://www.instagram.com/icaropavani/" title="Instagram Profile"><img width="80" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></code>
 </h5>
 <br>
 <p align="center">
