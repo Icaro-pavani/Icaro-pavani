@@ -32,25 +32,26 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
+  <code><img title="TypeScript" height="40" src="images/typescript.svg"></code>
+  <code><img title="NodeJs" height="40" src="images/nodejs-icon.svg"></code>
   <code><img title="C" height="40" src="images/c.svg"></code>
   <code><img title="C++" height="40" src="images/cpp.svg"></code>
   <!-- <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
   <code><img title="Python" height="40" src="images/python-original.svg"></code>
   <!-- <code><img title="Django" height="25" src="images/django.png"></code> -->
   <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="40" src="images/html5.svg"></code>
   <code><img title="CSS" height="40" src="images/css.svg"></code>
-  <!-- <code><img title="SASS" height="25" src="images/sass.svg"></code> -->
-  <!-- <code><img title="Gulp" height="25" src="images/gulp.svg"></code> -->
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="React" height="25" src="images/react-2.svg"></code>
   <!-- <code><img title="Redux" height="25" src="images/redux.svg"></code> -->
   <!-- <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
   <code><img title="Git" height="40" src="images/git-original.svg"></code>
   <!-- <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code> -->
   <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb-icon-1.svg"></code>
   <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
+  <code><img title="Jest" height="40" src="images/jest-2.svg"></code>
   <!-- <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code> -->
   <!-- <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
   <!-- <code><img title="JSON" height="25" src="images/json.svg"></code> -->
@@ -90,11 +91,15 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Icaro-pavani/projeto6-buzzquiz" title="buzzquizz"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=projeto6-buzzquiz&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Icaro-pavani/projeto3-driveneats" title="Driven Eats"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=projeto3-driveneats&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Icaro-pavani/building-passport" title="building passport"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=building-passport&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Icaro-pavani/projeto19-drivenpass" title="DrivenPass"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=projeto19-drivenpass&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Icaro-pavani/projeto4-parrotscardgame" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=projeto4-parrotscardgame&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Icaro-pavani/projeto13-mywallet-front" title="MyWallet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=projeto13-mywallet-front&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Icaro-pavani/projeto13-mywallet-back" title="MyWallet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=projeto13-mywallet-back&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
