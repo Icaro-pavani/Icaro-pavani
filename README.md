@@ -99,7 +99,7 @@
   <a align="left" href="https://github.com/Icaro-pavani/projeto13-mywallet-front" title="MyWallet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=projeto13-mywallet-front&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Icaro-pavani/projeto13-mywallet-back" title="MyWallet"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=projeto13-mywallet-back&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Icaro-pavani/projeto13-mywallet-back" title="MyWallet"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Icaro-pavani&repo=projeto13-mywallet-back&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
