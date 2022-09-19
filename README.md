@@ -82,7 +82,6 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Icaro-pavani&theme=react-dark&bg_color=000000&hide_border=true" width="100%"/>
 </p>
 
 <hr>
