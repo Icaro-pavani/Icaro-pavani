@@ -8,11 +8,10 @@
 
 <h5 align="center">
    <a href="https://www.linkedin.com/in/icaro-pavani-teodoro-59462196/" title="LinkedIn Profile"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/icaropavani/" title="Instagram Profile"><img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Icaro Pavani, Mechanical Enginner & Starting to become a Web Developer from Brazil
+  Hi, I'm Icaro Pavani, Web Developer Full Stack and Mechanical Enginner from Brazil
   <br>
   <br>
   🔬 I'm finishing my PhD degree at Mechanical Engineer at railway pneumatic brake system simulation with C and starting a carrer at web development
@@ -21,7 +20,7 @@
   <br>
   💻 I enjoy solve puzzle and find ways to solve problems through coding
   <br>
-  📚 I’m currently in a bootcamp to become a Web Developer Full Stack
+  📚 I’m currently studing Java to improve my knowledge in differents programming languages.
   <br>
   <!-- 💬 Ask me anything about from <a href="https://github.com/Icaro-pavani/Icaro-pavani/issues" title="Issues">Here</a>
   <br> -->
