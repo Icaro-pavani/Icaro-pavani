@@ -30,37 +30,29 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
+<h3>Languages:</h3>
 <p align="center">
-  <code><img title="TypeScript" height="40" src="images/typescript.svg"></code>
-  <code><img title="NodeJs" height="40" src="images/nodejs-icon.svg"></code>
-  <code><img title="C" height="40" src="images/c.svg"></code>
-  <code><img title="C++" height="40" src="images/cpp.svg"></code>
-  <!-- <code><img title="C#" height="25" src="images/cSharp.svg"></code> -->
-  <code><img title="Python" height="40" src="images/python-original.svg"></code>
-  <!-- <code><img title="Django" height="25" src="images/django.png"></code> -->
-  <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="40" src="images/html5.svg"></code>
-  <code><img title="CSS" height="40" src="images/css.svg"></code>
-  <code><img title="React" height="25" src="images/react-2.svg"></code>
-  <!-- <code><img title="Redux" height="25" src="images/redux.svg"></code> -->
-  <!-- <code><img title="AngularJS" height="25" src="images/angularjs.png"></code> -->
-  <code><img title="Git" height="40" src="images/git-original.svg"></code>
-  <!-- <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code> -->
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb-icon-1.svg"></code>
-  <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
-  <code><img title="Jest" height="40" src="images/jest-2.svg"></code>
-  <!-- <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code> -->
-  <!-- <code><img title="Java" height="25" src="images/java-original.svg"></code> -->
-  <!-- <code><img title="JSON" height="25" src="images/json.svg"></code> -->
-  <!-- <code><img title="Unity" height="25" src="images/unity3d.svg"></code> -->
-  <!-- <code><img title="Android" height="25" src="images/android.svg"></code> -->
-  <code><img title="GitHub" height="40" src="images/github.svg"></code>
-  <!-- <code><img title="MySQL" height="25" src="images/mysql.svg"></code> -->
-  <!-- <code><img title="npm" height="25" src="images/npm.svg"></code> -->
-  <!-- <code><img title="PHP" height="25" src="images/php.svg"></code> -->
-  <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
+  <code><img title="TypeScript" height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+  <code><img title="C" height="30" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+  <code><img title="C++" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
+  <code><img title="Python" height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></code>
+  <code><img title="Javascript" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+  <code><img title="HTML5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+  <code><img title="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+  <p>
+
+  <h3>Others:</h2>
+  <p align="center">
+  <code><img title="NodeJs" height="30" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
+  <code><img title="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+  <code><img title="Git" height="30" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></code>
+  <code><img title="GitHub" height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></code>
+  <code><img title="PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+  <code><img title="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
+  <code><img title="MongoDB" height="30" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></code>
+  <code><img title="Jest" height="30" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></code>
+  <code><img title="AWS" height="30" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
+  <code><img title="Heroku" height="30" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
 </p>
 <hr>
 
